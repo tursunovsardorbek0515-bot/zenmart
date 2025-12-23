@@ -521,3 +521,22 @@
   color: #041e42;
 }
 /*selling_product_frame*/
+
+.home_page .add_frame {
+  margin-top: 90px;
+  width: 100px;
+  height: 120px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #e5edff;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+
+  color: #0053f6;
+}
