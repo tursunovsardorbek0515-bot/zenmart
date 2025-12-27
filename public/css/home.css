@@ -1,5 +1,4 @@
 .home_page {
-  padding-bottom: 60px;
   display: flex;
   flex-direction: column;
 }
@@ -768,6 +767,7 @@
   justify-content: center;
   align-items: center;
 }
+/*tv_frame*/
 
 /*event_frame*/
 .home_page .event_frame {
@@ -781,6 +781,7 @@
   justify-content: center;
 
   background-image: url("../image/icons/event_bg.png");
+  background-size: cover;
 }
 .event_frame .kantiner {
   flex-direction: row;
@@ -893,3 +894,4 @@
   align-items: center;
   justify-content: center;
 }
+/*event_frame*/
